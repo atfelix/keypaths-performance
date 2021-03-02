@@ -9,7 +9,7 @@ $ swift run -c release
 On my computer, the result is
 
 ```
-swift run -c release                                                                                                                                                                            main 
+$ swift run -c release
 running key path sorted :: name... done! (1525.94 ms)
 running key path sorted :: age... done! (1545.78 ms)
 running key path expressions sorted :: name... done! (1546.89 ms)
