@@ -24,7 +24,7 @@ key path sorted :: age              14797394.000 ns ±   3.27 %         93
 key path expressions sorted :: name 13089546.000 ns ±   3.94 %        106
 key path expressions sorted :: age  14440162.000 ns ±   2.42 %         95
 functions sorted :: name              102494.000 ns ±   9.12 %      13123
-key path sorted :: age                 69360.000 ns ±   6.88 %      19774
+functions path sorted :: age           69360.000 ns ±   6.88 %      19774
 ```
 
 # Swift forum link
